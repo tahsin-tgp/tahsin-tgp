@@ -123,9 +123,9 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <a href="https://github.com/iam-tahsin">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iam-tahsin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-tahsin&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF" />
+  <a href="https://github.com/tahsin-tgp">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tahsin-tgp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsin-tgp&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF" />
   </a>
 </div>
 
